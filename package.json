@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/katyalisni4uk/hexlet-js/issues"
   },
-  "homepage": "https://github.com/katyalisni4uk/hexlet-js#readme"
+  "homepage": "https://github.com/katyalisni4uk/hexlet-js#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
 }
